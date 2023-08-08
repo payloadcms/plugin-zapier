@@ -12,6 +12,13 @@ We recommend starting with the Zapier Paths + Webhooks template to get started. 
 - A Zapier account with 1 webhook configured. [More](https://zapier.com/help/create/code-webhooks/trigger-zaps-from-webhooks)
 - A Payload project
 
+## Installation
+```bash
+  yarn add @payloadcms/plugin-zapier
+  # OR
+  npm i @payloadcms/plugin-zapier
+```
+
 ## Plugin Config Example
 
 
